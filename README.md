@@ -2,7 +2,7 @@
 
 This is a Simple EMI Calculator app with basic calculator app.
 
-Deveoped with ❤️ by Suman Dey
+Made with ❤️ by Suman Dey
 
 If you like it give it a star and you can also fork the repo.
 
